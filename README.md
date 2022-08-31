@@ -1,3 +1,8 @@
+Wireshark — инструмент для захвата и анализа сетевого трафика  
+
+Оригинальный репозитарий   
+https://gitlab.com/wireshark/wireshark    
+
 General Information
 -------------------
 
